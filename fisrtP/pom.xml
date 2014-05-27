@@ -22,10 +22,6 @@
     <groupId>edu.esprit.tn</groupId>
     <artifactId>fisrtP</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <activeProfiles>
-    <!--make the profile active all the time -->
-    <activeProfile>nexus</activeProfile>
-  </activeProfiles>
 <distributionManagement>
         <repository>
             <id>nexus</id>
